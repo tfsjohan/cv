@@ -2,7 +2,7 @@
 
 I solve problems using technology. 
 
-My entire life, I have been deeply engaged in the world of programming. The ability to identify a problem and envision a more efficient solution through software has always captivated me. When I was about 10 years old, my older sisters boyfriend showed my Basic and then I knew what I wanted to work with the rest of my life. 
+My entire life, I have been deeply engaged in the world of programming. The ability to identify a problem and envision a more efficient solution through software has always captivated me. When I was about 10 years old, my older sisters boyfriend showed me GW Basic in MS Dos and then I knew what I wanted to work with the rest of my life. 
 
 I began my professional career in 1997 at a prominent web development agency in Sweden, where I immersed myself in web and app development. Since then, I have gained extensive experience working in diverse environments, including larger agencies, small companies, co-owned ventures, and as a self-employed professional. In recent years, I have had the privilege of serving as a Cloud Solution Architect with a focus on App Innovation and Sustainability at Microsoft. Despite my professional commitments, I continue to maintain and contribute to projects and applications through my own company.
 
