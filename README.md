@@ -4,7 +4,7 @@ I solve problems using technology.
 
 My entire life, I have been deeply engaged in the world of programming. The ability to identify a problem and envision a more efficient solution through software has always captivated me. When I was about 10 years old, my older sisters boyfriend showed me GW Basic in MS Dos and then I knew what I wanted to work with the rest of my life. 
 
-I began my professional career in 1997 at a prominent web development agency in Sweden, where I immersed myself in web and app development. Since then, I have gained extensive experience working in diverse environments, including larger agencies, small companies, co-owned ventures, and as a self-employed professional. In recent years, I have had the privilege of serving as a Cloud Solution Architect with a focus on App Innovation and Sustainability at Microsoft. Despite my professional commitments, I continue to maintain and contribute to projects and applications through my own company.
+I began my professional career in 1997 at a prominent web development agency in Sweden, where I immersed myself in web and app development. Since then, I have gained extensive experience working in diverse environments, including larger agencies, small companies, co-owned ventures, and as a self-employed professional. In recent years, I have had the privilege of serving as a **Cloud Solution Architect** with a focus on **App Innovation** and **Sustainability** at Microsoft. Despite my professional commitments, I continue to maintain and contribute to projects and applications through my own company.
 
 Visit my [LinkedIn profile](https://linkedin.com/in/webbjohan) for more info.
 
@@ -21,9 +21,9 @@ During the years I've build both full web sites and high performant API:s with .
 After working on the frontend with various frameworks and patterns like Jquery, Angular, Knockout, etc, I tried **ReactJS** and got hooked. Since around 2014 all my frontend development has been in **React** or **NextJS**. The combination of React & TypeScript felt so natural to me and took away many of the biggest pains with frontend development. 
 
 ### Node
-When I started using React and Next JS it also felt natural to use TypeScript and Node for API's and backend programming. Depending on the usecase I choose asp.net core or **node** js. Both has it's own pros and cons and I feel very comfortable with both. I have mainly used **ExpressJS**. 
+When I started using React and Next JS it also felt natural to use TypeScript and Node for API's and backend programming. Depending on the use case I choose asp.net core or **node** js. Both has it's own pros and cons and I feel very comfortable with both. 
 
-One of the biggest projects I still maintain uses Express JS for backend API:s and Next JS for the web frontend. 
+One of the biggest projects I still maintain uses **Express JS** for backend API:s and Next JS for the web frontend. 
 
 ### Native apps
 Around the time the iPad was released I started building educational apps for schools. At that time, doing it natively was the only option, which meant learning **Objective C** for iOS and **Java** for Android. Over the years I switched to **Swift** and **Kotlin**. I still maintain a couple of these apps with both Objective C and Swift.
@@ -51,7 +51,7 @@ For new app projects I mainly use **React Native**. Having the same stack for bo
 #### Microsoft (2021-11 - )
 At Microsoft I have gained a lot of knowledge around building scalable high performant cloud native solutions. As a cloud solution architect, my responsibility has been to help our partners and ISV to be successful in the cloud. Working with sustainability and making green software has been a core part of my role. Much of my time is spent on enablement on educating partners and customers on new technology. 
 
-I am very greatful for being able to work at Microsoft to get to know all the people there, working with talented parters and growing my network. 
+I am very grateful for being able to work at Microsoft to get to know all the people there, working with talented partners and growing my network. 
 
 I cohost the [Microsoft Partner Podcast](https://aka.ms/partnerpodden). 
 
@@ -59,7 +59,7 @@ I cohost the [Microsoft Partner Podcast](https://aka.ms/partnerpodden).
 [Digitalt Hjärta](https://digitalthjarta.se) (Digital Heart) is my own company. I started this as a part time job while still being employed at an agency. I mainly focused on building apps for schools. When this become more and more successful, I quit and focused fully on my own projects. I still maintain many of these apps and services. Visit [digitalthjarta.se](https://digitalthjarta.se) to see projects I made here.
 
 #### Projector (2008 - 2014)
-Projector was a digital advertizement agency. Here I was part of many fun and crazy projects, blending software, hardware and installations. We built [games for Samsung](https://www.youtube.com/watch?v=9Qq_yYDBjWo), [Charieoke with Say Lou Lou](https://vimeo.com/262992557), strange [christmas presents](https://www.youtube.com/watch?v=9PGIitOX1i8) and a competition where you should [impress Megan Fox](https://www.youtube.com/watch?v=k-n0ibhbxTA). I worked in a team of four developers, graphics artists and copywriter and had a lot of fun!
+Projector was a digital advertisement agency. Here I was part of many fun and crazy projects, blending software, hardware and installations. We built [games for Samsung](https://www.youtube.com/watch?v=9Qq_yYDBjWo), [Charioke with Say Lou Lou](https://vimeo.com/262992557), strange [christmas presents](https://www.youtube.com/watch?v=9PGIitOX1i8) and a competition where you should [impress Megan Fox](https://www.youtube.com/watch?v=k-n0ibhbxTA). I worked in a team of four developers, graphics artists and copywriter and had a lot of fun!
 
 #### Spider (2002 - 2008)
 Spider mainly worked with Microsoft Office education and custom solutions like templates. When I joined it focused more on bigger software projects. I worked with large customers like Proctor & Gamble, H&M and Tetrapak.
