@@ -48,7 +48,10 @@ For new app projects I mainly use **React Native**. Having the same stack for bo
 
 ### Employments
 
-#### Microsoft (2021-11 - )
+#### GitHub (2024 - )
+As a Software Developer at GitHub I got the chance to work with fantastic teams and delivering software to help millions of developers around the world. It has been amazing to work on a tool that has been such a vital part of my own developer life and something I've used every single day for so many years.
+
+#### Microsoft (2021-11 - 2024)
 At Microsoft I have gained a lot of knowledge around building scalable high performant cloud native solutions. As a cloud solution architect, my responsibility has been to help our partners and ISV to be successful in the cloud. Working with sustainability and making green software has been a core part of my role. Much of my time is spent on enablement on educating partners and customers on new technology. 
 
 I am very greatful for being able to work at Microsoft to get to know all the people there, working with talented parters and growing my network. 
