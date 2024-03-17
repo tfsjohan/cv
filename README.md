@@ -44,7 +44,9 @@ For new app projects I mainly use **React Native**. Having the same stack for bo
 * SC-900 - Security Fundamentals
 * DP-420 - Azure Cosmos DB Developer Specialty
 * GitHub Action
-* GitHub Advanced Security (scheduled)
+* GitHub Advanced Security
+* GitHub Foundations
+* GitHub Administration (scheduled)
 
 ## Employments
 
