@@ -73,12 +73,18 @@ At Cell I was the first employee, except for the founders. This was an amazing l
 ## References
 
 ### [Malin Dandenell](https://www.linkedin.com/in/malindandenell/)
+https://www.linkedin.com/in/malindandenell/
+
 Malin Dandenell recruited me to Microsoft and was my manager the first years and probably knows more than anyone what my strengths and weaknesses are in the workplace. 
 
 ### [Niklas Vackerdag](https://www.linkedin.com/in/nickevackerdag/)
+https://www.linkedin.com/in/nickevackerdag/
+
 Niklas Vackerdag has been the project manager or product owner in several projects I’ve worked with. 
 
 ### [Jörgen Söderqvist](https://www.linkedin.com/in/jorgen-soderqvist/)
+https://www.linkedin.com/in/jorgen-soderqvist/
+
 Jörgen Söderqvist worked with me at Projector as a developer. We’ve continued to work together on freelance projects from time to time. He probably knows most about my skills as a developer and team mate. 
 
 ## Testimonials
