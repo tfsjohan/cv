@@ -51,7 +51,7 @@ For new mobile app projects I mainly use **React Native**. Having the same stack
 ## Employments
 
 ### Microsoft (2021-11 - )
-At Microsoft I have gained a lot of knowledge around building scalable high performant cloud native solutions. As a cloud solution architect, my responsibility has been helping our partners and ISV’s to be successful in the cloud. Working with sustainability and making green software also has been a core part of my role. Much of my time is spent on educating partners and customers in new technology. On key area this last year has been around GitHub Copilot, where I've hosted 1-2 GitHub Copilot workshops per week.
+At Microsoft I have gained a lot of knowledge around building scalable high performant cloud native solutions. As a cloud solution architect, my responsibility has been helping our partners and ISV’s to be successful in the cloud. Working with sustainability and making green software also has been a core part of my role. Much of my time is spent on educating partners and customers in new technology. One key area this last year has been around GitHub Copilot, where I've hosted 1-2 GitHub Copilot workshops per week, helping customers be more successful with AI driven developer productivity.
 
 I co-host the [Microsoft Partner Podcast](https://aka.ms/partnerpodden). 
 
