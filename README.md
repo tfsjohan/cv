@@ -29,7 +29,7 @@ One of the largest projects I still maintain rely on **Express** js for backend 
 Around the time the iPad was released, I started building educational apps for schools. Back then, doing it natively was the only option, which meant learning **Objective C** for iOS and **Java** for Android. Over the years I switched to **Swift** and **Kotlin**. I still maintain a couple of these apps with both Objective C and Swift.
 
 ### React Native
-For new app projects I mainly use **React Native**. Having the same stack for both web and app helps with productivity and avoiding context switching. As a solo developer, React Native has played a huge part in making me productive enough to publish apps both on iOS, Android and Web. 
+For new mobile app projects I mainly use **React Native**. Having the same stack for both web and app helps with productivity and avoiding context switching. As a solo developer, React Native has played a huge part in making me productive enough to publish apps both on iOS, Android and Web. 
 
 ### Relational Databases
 **Microsoft SQL Server** was the first database I worked with (starting in 1997). I still use it for many projects. Over the years I’ve used **PostgreSQL** more. I’ve also worked with NoSQL databases like **RavenDB** and I have **Azure Cosmos DB** certification.
@@ -43,15 +43,15 @@ For new app projects I mainly use **React Native**. Having the same stack for bo
 * AZ-400 - Azure DevOps Expert
 * SC-900 - Security Fundamentals
 * DP-420 - Azure Cosmos DB Developer Specialty
-* GitHub Action
+* GitHub Actions
 * GitHub Advanced Security
 * GitHub Foundations
-* GitHub Administration (scheduled)
+* GitHub Administration
 
 ## Employments
 
 ### Microsoft (2021-11 - )
-At Microsoft I have gained a lot of knowledge around building scalable high performant cloud native solutions. As a cloud solution architect, my responsibility has been helping our partners and ISV’s to be successful in the cloud. Working with sustainability and making green software also has been a core part of my role. Much of my time is spent on educating partners and customers in new technology. 
+At Microsoft I have gained a lot of knowledge around building scalable high performant cloud native solutions. As a cloud solution architect, my responsibility has been helping our partners and ISV’s to be successful in the cloud. Working with sustainability and making green software also has been a core part of my role. Much of my time is spent on educating partners and customers in new technology. On key area this last year has been around GitHub Copilot, where I've hosted 1-2 GitHub Copilot workshops per week.
 
 I co-host the [Microsoft Partner Podcast](https://aka.ms/partnerpodden). 
 
