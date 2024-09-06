@@ -18,7 +18,7 @@ I have consistently relied on the **.NET** eco system. I began with Classic ASP,
 During the years I’ve build both full web sites and high performant API:s using .NET, serving many users while using cheap hardware.
 
 ### React & Next.js
-After working on the frontend with various frameworks and patterns, like Jquery, Angular, Knockout, etc., I tried **React** and got hooked. Since around 2014 all my frontend development has been in **React** or **Next.js**. The combination of React & TypeScript felt natural to me and took away many of the biggest pains with frontend development. 
+After working on the frontend with various frameworks and patterns, like Jquery, Angular, Knockout, etc., I tried **React** and got hooked (no pun intended). Since around 2014 all my frontend development has been in **React** or **Next.js**. The combination of React & TypeScript felt natural to me and took away many of the biggest pains with frontend development. 
 
 ### Node.js
 When I started using React and Next.js, it also made sense to use TypeScript and Node for API’s and backend programming. Depending on the use case, I choose ASP.NET Core or **Node.js**. Both have their own pros and cons and I feel comfortable using either. 
