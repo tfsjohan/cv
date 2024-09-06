@@ -47,6 +47,8 @@ For new mobile app projects I mainly use **React Native**. Having the same stack
 * GitHub Advanced Security
 * GitHub Foundations
 * GitHub Administration
+* AI-102 - Azure AI Engineer Associate
+* AI-900 - Azure AI Fundamentals
 
 ## Employments
 
