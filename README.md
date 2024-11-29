@@ -4,7 +4,7 @@ I solve problems using technology.
 
 My entire life, I have been deeply engaged in the world of programming. The ability to identify a problem and envision an efficient solution through software has always captivated me. When I was about 10 years old, my older sisters boyfriend showed me GW Basic in MS-DOS. Then I knew what I wanted to work with for the rest of my life. 
 
-Professionally, my career began in 1997 at a prominent Swedish web development agency, where I immersed myself in web and app development. Since then, I have gained extensive experience working in diverse environments, including larger agencies, small companies, co-owned ventures, and as a self-employed professional. In recent years, I have had the pleasure of working as a **Cloud Solution Architect** with a focus on **app innovation** and **sustainability** at Microsoft. Alongside my professional commitments, I continue to maintain and contribute to projects and applications through my own company.
+Professionally, my career began in 1997 at a prominent Swedish web development agency, where I immersed myself in web and app development. Since then, I have gained extensive experience working in diverse environments, including larger agencies, small companies, co-owned ventures, and as a self-employed professional. In recent years, I have had the pleasure of working as a **Cloud Solution Architect** with a focus on **app innovation**, **sustainability** and **ai** at Microsoft. Alongside my professional commitments, I continue to maintain and contribute to projects and applications through my own company. After three at Microsoft, I'm going back to consulting at Active Solution.
 
 Visit my [LinkedIn profile](https://linkedin.com/in/webbjohan) for more info.
 
@@ -53,10 +53,13 @@ For new mobile app projects I mainly use **React Native**. Having the same stack
 
 ## Employments
 
-### Microsoft (2021-11 - )
-At Microsoft I have gained a lot of knowledge around building scalable high performant cloud native solutions. As a cloud solution architect, my responsibility has been helping our partners and ISV’s to be successful in the cloud. Working with sustainability and making green software also has been a core part of my role. Much of my time is spent on educating partners and customers in new technology. One key area this last year has been around GitHub Copilot, where I've hosted 1-2 GitHub Copilot workshops per week, helping customers be more successful with AI driven developer productivity.
+### Active Solution (2024-12 - )
+After three years at Microsoft I really started to miss programming and software development. Coding is where I am the happiest. Active Solution is a highly regarded Microsoft Partner. At Microsoft, we loved to recommend Active Solution because they always delivered. Now I have the pleasure to be part of this talented team and to help customers building amazing products and services.
 
-I co-host the [Microsoft Partner Podcast](https://aka.ms/partnerpodden). 
+### Microsoft (2021-11 - 2024-12)
+At Microsoft I have gained a lot of knowledge around building scalable high performant cloud native solutions. As a cloud solution architect, my responsibility has been helping our partners and ISV’s to be successful in the cloud. Working with sustainability and making green software also has been a core part of my role. Much of my time is spent on educating partners and customers in new technology. One key area this last year has been around GitHub Copilot, where I've hosted 1-2 GitHub Copilot workshops per week, helping customers be more successful with AI driven developer productivity. 
+
+I co-hosted the [Microsoft Partner Podcast](https://aka.ms/partnerpodden). 
 
 ### Digitalt Hjärta (2014 - )
 [Digitalt Hjärta](https://digitalthjarta.se) (Digital Heart) is my private company. I started it as a part time job while employed at an agency. Mainly, I focused on building apps for schools. When this became more successful, I quit my employment and worked full-time on my own projects. I still maintain many of these apps and services. Visit [digitalthjarta.se](https://digitalthjarta.se) to see projects I made.
