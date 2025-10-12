@@ -7,9 +7,9 @@ on:
   workflow_dispatch: # Allows manual triggering
     inputs:
       tag_name:
-        description: "Tag name for the release (e.g., v1.0.0)"
+        description: "Tag name for the release, using the vYEAR.MONTH.BUILD format (e.g., v2025.10.1)."
         required: true
-        default: "v1.0.0"
+        default: "v"
 
 permissions:
   contents: write
@@ -49,6 +49,7 @@ jobs:
           fi
 
       - name: Create Release
+        id: create_release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ steps.tag.outputs.tag_name }}
@@ -60,3 +61,13 @@ jobs:
           files: johan-nordberg-cv.pdf
           draft: false
           prerelease: false
+
+      - name: Output Release Information
+        run: |
+          echo "## 📄 CV PDF Release Created Successfully! 🎉" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Release:** [${{ steps.tag.outputs.tag_name }}](${{ steps.create_release.outputs.url }})" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**📥 Download PDF:** [johan-nordberg-cv.pdf](${{ github.server_url }}/${{ github.repository }}/releases/download/${{ steps.tag.outputs.tag_name }}/johan-nordberg-cv.pdf)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "The CV has been successfully converted to PDF and added to the release!" >> $GITHUB_STEP_SUMMARY
