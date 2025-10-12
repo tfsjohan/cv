@@ -5,6 +5,14 @@ on:
     tags:
       - "v*" # Triggers on version tags like v1.0.0
   workflow_dispatch: # Allows manual triggering
+    inputs:
+      tag_name:
+        description: "Tag name for the release (e.g., v1.0.0)"
+        required: true
+        default: "v1.0.0"
+
+permissions:
+  contents: write
 
 jobs:
   create-pdf-release:
@@ -31,27 +39,24 @@ jobs:
         id: date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
+      - name: Determine tag name
+        id: tag
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "tag_name=${{ github.event.inputs.tag_name }}" >> $GITHUB_OUTPUT
+          else
+            echo "tag_name=${{ github.ref_name }}" >> $GITHUB_OUTPUT
+          fi
+
       - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ github.ref_name }}
-          release_name: CV Release ${{ github.ref_name }}
+          tag_name: ${{ steps.tag.outputs.tag_name }}
+          name: CV Release ${{ steps.tag.outputs.tag_name }}
           body: |
             CV of Johan Nordberg - Updated ${{ steps.date.outputs.date }}
 
             This release contains the latest version of Johan Nordberg's CV in PDF format.
+          files: johan-nordberg-cv.pdf
           draft: false
           prerelease: false
-
-      - name: Upload PDF to Release
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./johan-nordberg-cv.pdf
-          asset_name: johan-nordberg-cv.pdf
-          asset_content_type: application/pdf
