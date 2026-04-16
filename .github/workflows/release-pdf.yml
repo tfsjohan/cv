@@ -30,7 +30,7 @@ jobs:
       - name: Convert README to PDF
         run: |
           # Create a styled HTML version first for better PDF output
-          pandoc README.md -f markdown -t html -s -o cv.html --metadata title="CV - Johan Nordberg"
+          pandoc README.md -f markdown -t html -s -o cv.html --metadata title=""
 
           # Convert HTML to PDF with styling
           wkhtmltopdf --page-size A4 --margin-top 20mm --margin-bottom 20mm --margin-left 15mm --margin-right 15mm cv.html johan-nordberg-cv.pdf

@@ -1,5 +1,17 @@
 # CV of Johan Nordberg
 
+## TL;DR
+
+Software developer & consultant with nearly 30 years of experience building real, useful systems.
+
+I specialize in turning vague problems into working software, especially in greenfield projects and early-stage product work. Currently at Active Solution, where I help customers with product innovation, modernization, and practical AI tooling. Previously Cloud Solution Architect at Microsoft (focused on GitHub Copilot enablement and sustainable cloud systems).
+
+I thrive when given clear goals, high trust, and room to shape the path. I care deeply about meaningful work that actually helps people, low-friction environments, and teams that are knowledgeable without being loud.
+
+Deep hands-on experience with .NET / Blazor, React + Next.js, Node.js / TypeScript, and React Native. I also maintain Cloud QR, a practical tool used daily by thousands in Swedish schools and preschools.
+
+I'm looking for the right fit: early-stage work, autonomous roles, and solid people where I can build, teach, and give my best.
+
 ## Who I am, really
 
 I solve problems using technology. I've been doing it professionally for nearly 30 years, but started with GW Basic in MS-DOS when I was 10. That early moment showed me something: the ability to see a problem, envision a solution, and *make it real* is intoxicating.
@@ -12,8 +24,6 @@ I'm at Active Solution now because they ship real products for real customers, a
 
 Visit my [LinkedIn profile](https://linkedin.com/in/webbjohan) (https://linkedin.com/in/webbjohan) for more info.
 
-If you're viewing this as a PDF, please go to [github.com/tfsjohan/cv](https://github.com/tfsjohan/cv) to access all links.
-
 ---
 
 ## How I work
@@ -24,7 +34,7 @@ If you're viewing this as a PDF, please go to [github.com/tfsjohan/cv](https://g
 
 **I'm after meaning, not metrics.** The work doesn't have to be huge. It has to be real. Something that helps, simplifies, touches. Something that makes someone's day a little more coherent. And honestly? I need to believe in it. If I don't, you'll sense it, and we're both wasting time.
 
-**I want to give back.** I can't do that if I'm in the wrong place. But when the environment is right, I'm genuinely awesome at lifting the people around me. Not through heroics. Through clarity, pragmatism, and a real belief in the work we're building together.
+**I want to give back.** I can't do that if I'm in the wrong place. But when the environment is right, lifting the people around me comes naturally. Not through heroics. Through clarity, pragmatism, and a real belief in the work we're building together.
 
 ---
 
@@ -42,7 +52,7 @@ I've moved between frontend, backend, databases, and apps throughout my career. 
 
 **Databases.** SQL Server since 1997. PostgreSQL increasingly. Some NoSQL (RavenDB, Azure Cosmos DB). I understand what each is good for and when to reach for something different.
 
-The truth: I don't love any of these tools more than the others. What matters is whether they let me think clearly about the problem and build fast with less friction. Boring tools are good tools.
+The truth: The exact tool or framework is not important to me. What matters is whether they let me think clearly about the problem and build fast with less friction. Boring tools are good tools.
 
 ---
 
@@ -70,7 +80,7 @@ What I learned: Consulting at scale is about pattern recognition. Customers ofte
 
 My own company. Started while employed at an agency, became full-time, now a side project I maintain.
 
-I built **Cloud QR**, an app that helps Swedish schools and pre-schools manage digital resources. Many schools loves it. Thousands of people use it. No venture capital. No growth hacking. Just real product-market fit and passion to build and solve real problems for real people.
+I built **Cloud QR**, an app that helps Swedish schools and pre-schools manage digital resources. Many schools love it. Thousands of people use it. No venture capital. No growth hacking. Just real product-market fit and passion to build and solve real problems for real people.
 
 I built several education apps and games where learning needs to be more than a chore. And getting that feedback from parents and teachers, that these app unlocked something for their kids, made it worth all the long late evenings of hard work and fixing strange bugs.
 
