@@ -1,138 +1,141 @@
 # CV of Johan Nordberg
 
-I solve problems using technology.
+## Who I am, really
 
-My entire life, I have been deeply engaged in the world of programming. The ability to identify a problem and envision an efficient solution through software has always captivated me. When I was about 10 years old, my older sister's boyfriend showed me GW Basic in MS-DOS. Then I knew what I wanted to work with for the rest of my life.
+I solve problems using technology. I've been doing it professionally for nearly 30 years, but started with GW Basic in MS-DOS when I was 10. That early moment showed me something: the ability to see a problem, envision a solution, and *make it real* is intoxicating.
 
-Professionally, my career began in 1997 at a prominent Swedish web development agency, where I immersed myself in web and app development. Since then, I have gained extensive experience working in diverse environments, including larger agencies, small companies, co-owned ventures, and as a self-employed professional. In recent years, I have had the pleasure of working as a **Cloud Solution Architect** with a focus on **app innovation**, **sustainability** and **ai** at Microsoft. Alongside my professional commitments, I continue to maintain and contribute to projects and applications through my own company. After three at Microsoft, I'm going back to consulting at Active Solution.
+But here's the thing: I've learned that the code is never the point. The code is just how you build toward something that matters. A school app that helps kids learn. A system that saves someone time. A team that ships something together and feels proud of it.
+
+I work best when I'm trusted to find the path, when the environment lets ideas breathe, when the people around me are confident enough to not be loud. When I'm in the right place, I give everything. When I'm not, it grinds me down until I finally get out.
+
+I'm at Active Solution now because they ship real products for real customers, and the people there are exactly the kind I want to work alongside.
 
 Visit my [LinkedIn profile](https://linkedin.com/in/webbjohan) (https://linkedin.com/in/webbjohan) for more info.
 
 If you're viewing this as a PDF, please go to [github.com/tfsjohan/cv](https://github.com/tfsjohan/cv) to access all links.
 
-## Technology skills
+---
 
-Throughout my career, I have moved between frontend, backend, database, and app development. Whether working in smaller teams or managing my own projects, I have prioritized gaining a deep understanding of the full stack. This versatility allows me to move between different technologies and deliver from zero to production.
+## How I work
 
-### .NET
+**I belong at the beginning.** Greenfield projects, soft edges, decisions not yet cast in stone. That's where I light up. I can jump into legacy systems and refactor them well enough, but my energy lives in building foundations and laying hands on early versions.
 
-I have consistently relied on the **.NET** eco system. I began with Classic ASP, VB, and COM+. When the .NET framework was introduced, I transitioned to it. With the advent of **.NET Core**, I embraced it for new projects, leveraging its modern capabilities, improved performance and most of all its cross platform capabilities.
+**I need freedom to give you something good.** Give me the goal, the why, the constraints. Then let me find the path. When I can shape the steps, both the ideas and the joy multiply. I'm fastest and most creative when the friction is low and the trust is high.
 
-Over the years I’ve build both full web sites and high performant APIs using .NET, serving many users while using cheap hardware.
+**I'm after meaning, not metrics.** The work doesn't have to be huge. It has to be real. Something that helps, simplifies, touches. Something that makes someone's day a little more coherent. And honestly? I need to believe in it. If I don't, you'll sense it, and we're both wasting time.
 
-### React & Next.js
+**I want to give back.** I can't do that if I'm in the wrong place. But when the environment is right, I'm genuinely awesome at lifting the people around me. Not through heroics. Through clarity, pragmatism, and a real belief in the work we're building together.
 
-After working on the frontend with various frameworks and patterns, like Jquery, Angular, Knockout, etc., I tried **React** and got hooked (no pun intended). Since around 2014 all my frontend development has been in **React** or **Next.js**. The combination of React & TypeScript felt natural to me and took away many of the biggest pains with frontend development.
+---
 
-### Node.js
+## Technical depth
 
-When I started using React and Next.js, it also made sense to use TypeScript and Node for APIs and backend programming. Depending on the use case, I choose ASP.NET Core or **Node.js**. Both have their own pros and cons and I feel comfortable using either.
+I've moved between frontend, backend, databases, and apps throughout my career. I've learned that depth in one stack beats shallow knowledge everywhere. Here's what I've built real things with:
 
-One of the largest projects I still maintain rely on **Express.js** for backend APIs and Next.js for the web frontend.
+**.NET ecosystem.** Classic ASP, VB, COM+. Then .NET Framework, now .NET Core and Blazor. I've shipped high-performance APIs and full web applications on cheap hardware serving many users. I understand the platform deeply, not just how to write code, but how to think about performance, scalability, and long-term maintainability.
 
-### Native apps
+**React & Next.js.** Hooked since around 2014. React + TypeScript solved the biggest pains I had with frontend development. I've built everything from dashboards to educational apps. Next.js is often my go-to for projects where the full stack matters.
 
-Around the time the iPad was released, I started building educational apps for schools. Back then, doing it natively was the only option, which meant learning **Objective C** for iOS and **Java** for Android. Over the years I switched to **Swift** and **Kotlin**. I still maintain a couple of these apps with both Objective C and Swift.
+**Node.js.** When I started with React, it made sense to write backends in TypeScript too. I maintain several large projects on this stack. I choose ASP.NET Core or Node depending on the fit, and I'm comfortable in either.
 
-### React Native
+**Mobile.** Started with native, Objective-C for iOS, Java for Android. Switched to Swift and Kotlin. Now React Native for new projects because it's the only way I can stay sane as a solo developer building for iOS, Android, and web simultaneously.
 
-For new mobile app projects I mainly use **React Native**. Having the same stack for both web and app helps with productivity and avoiding context switching. As a solo developer, React Native has played a huge part in making me productive enough to publish apps on iOS, Android and Web.
+**Databases.** SQL Server since 1997. PostgreSQL increasingly. Some NoSQL (RavenDB, Azure Cosmos DB). I understand what each is good for and when to reach for something different.
 
-### Relational Databases
+The truth: I don't love any of these tools more than the others. What matters is whether they let me think clearly about the problem and build fast with less friction. Boring tools are good tools.
 
-**Microsoft SQL Server** was the first database I worked with (starting in 1997). I still use it for many projects. Over the years I’ve used **PostgreSQL** more. I’ve also worked with NoSQL databases like **RavenDB** and I have **Azure Cosmos DB** certification.
+---
+
+## Recent work & what I've learned
+
+### Active Solution (2024-12 – now)
+
+After three years at Microsoft, I realized something: I miss building. Architecting is good, talking about technology is good, but my hands need to make things. So I came back to consulting.
+
+I'm working with customers on product innovation. Everything from greenfield apps to modernizing older systems. I'm also continuing to share knowledge about AI and developer tooling through workshops and speaking.
+
+What matters here: Active Solution delivers. The people are pragmatic, curious, and genuinely kind. That combination is rare.
+
+### Microsoft (2021-11 – 2024-12)
+
+Three years as a Cloud Solution Architect. I helped partners and ISVs succeed in Azure, building scalable, performant, sustainable systems.
+
+The highest-leverage work was around **GitHub Copilot enablement**. I ran 1-2 workshops per week, helping customers unlock developer productivity through AI. I collaborated with Microsoft on hands-on labs and learned that teaching people *how* to think about AI-assisted coding matters more than just giving them the tool.
+
+I also worked on **green software**, helping teams think about carbon, cost, and performance as interconnected problems. That work stuck with me.
+
+What I learned: Consulting at scale is about pattern recognition. Customers often don't need a new framework. They need permission to solve problems the way they already know works, just better.
+
+### Digitalt Hjärta (2014 – now)
+
+My own company. Started while employed at an agency, became full-time, now a side project I maintain.
+
+I built **Cloud QR**, an app that helps Swedish schools and pre-schools manage digital resources. Many schools loves it. Thousands of people use it. No venture capital. No growth hacking. Just real product-market fit and passion to build and solve real problems for real people.
+
+I built several education apps and games where learning needs to be more than a chore. And getting that feedback from parents and teachers, that these app unlocked something for their kids, made it worth all the long late evenings of hard work and fixing strange bugs.
+
+Why I mention it: This taught me that *sustainable* beats *scalable*. You can build something meaningful that lasts without chasing hockey-stick curves. And you can do it without losing yourself in the process.
+
+### Projector (2008 – 2014)
+
+Digital agency. We built games for Samsung, interactive installations, weird art projects that blended hardware and software.
+
+What stuck: **Play matters.** Some of my best creative work happened when the brief was strange and we had permission to be a little bit weird. This is where I learned that the unusual, the playful, the unexpected, is where my creativity lives.
+
+### Earlier: Spider, 24/7 Interactive, Cell Networks (1997 – 2008)
+
+Big customers (P&G, H&M, Tetra Pak), small teams, learning from mentors I still think about 25+ years later.
+
+What matters now: These jobs taught me that you can do solid, serious work without losing the joy. The people at Cell Networks shaped how I think about mentorship and craft.
+
+---
 
 ## Certifications
 
-- AZ-900 - Azure Fundamentals
-- AZ-204 - Azure Developer Associate
-- AZ-104 - Azure Administrator Associate
-- AZ-305 - Azure Solutions Architect Expert
-- AZ-400 - Azure DevOps Expert
-- SC-900 - Security Fundamentals
-- DP-420 - Azure Cosmos DB Developer Specialty
-- GitHub Actions
-- GitHub Advanced Security
-- GitHub Foundations
-- GitHub Administration
-- GitHub Copilot
-- AI-102 - Azure AI Engineer Associate
-- AI-900 - Azure AI Fundamentals
+**Azure:** AZ-900, AZ-204, AZ-104, AZ-305, AZ-400, SC-900, DP-420, AI-102, AI-900
 
-## Employments
+**GitHub:** Copilot, Advanced Security, Foundations, Administration
 
-### Active Solution (2024-12 - )
+**Takeaway:** I invest in understanding platforms deeply. These certs aren't resume padding, they represent areas where I've gone deep enough to help others.
 
-After three years at Microsoft I really started to miss programming and software development. Coding is where I am the happiest. Active Solution is a highly regarded Microsoft Partner. At Microsoft, we loved to recommend Active Solution because they always delivered. Now I have the pleasure to be part of this talented team and to help customers building amazing products and services.
+---
 
-I co-host the [Avkodat](https://www.avkodat.se) podcast.
+## What I'm looking for
 
-At Active Solution, I have continued public speaking to share my knowledge about tech and AI with my peers.
+**Projects where I can arrive early.** Greenfield work, innovation, new product lines. Places where decisions are still soft.
 
-### Microsoft (2021-11 - 2024-12)
+**Teams that are confident enough to trust.** People who are quiet in themselves. Knowledgeable without being loud. Reliable without being rigid. I work best here.
 
-At Microsoft I have gained a lot of knowledge around building scalable high performant cloud native solutions. As a cloud solution architect, my responsibility has been helping our partners and ISV’s to be successful in the cloud. Working with sustainability and making green software also has been a core part of my role. Much of my time is spent on educating partners and customers in new technology. One key area this last year has been around GitHub Copilot, where I've hosted 1-2 GitHub Copilot workshops per week, helping customers be more successful with AI driven developer productivity.
+**Work that matters.** Doesn't need to be Nobel Prize material. Just real. Something that helps someone, simplifies something, improves something.
 
-I co-hosted the [Microsoft Partner Podcast](https://aka.ms/partnerpodden).
+**An environment where I can breathe.** Low friction. Short distance between thought and action. Good tools. Boring infrastructure. Room to move.
 
-### Digitalt Hjärta (2014 - )
+**A chance to teach and lift.** I want to work with people I can genuinely help become better. Not through lectures. Through clarity, pragmatism, and modeling what good looks like.
 
-[Digitalt Hjärta](https://digitalthjarta.se) (Digital Heart) is my private company. I started it as a part time job while employed at an agency. Mainly, I focused on building apps for schools. When this became more successful, I quit my employment and worked full-time on my own projects.
+---
 
-The personal projects I've worked in Digitalt Hjärta is mainly focused on **EdTech**, building apps to help children learn and teachers simplify boring tasks using technology. [Cloud QR](https://www.cloud-qr.se/) is used by many Swedish schools and pre-schools.
+## How to work with me
 
-I still maintain many of these apps and services. Visit [digitalthjarta.se](https://digitalthjarta.se) to see projects I made.
+- **Give me autonomy.** I'm fastest and best when I can shape my own path toward the goal you've set.
+- **Be clear about the why.** I can't give my best to work I don't believe in.
+- **Trust me.** When you say "I trust you'll do what you should," and mean it, I become both braver and more human.
+- **Let me start things.** I'm happiest building foundations and shaping early direction.
+- **Expect me to ask questions.** I need to understand the problem deeply before I solve it.
 
-### Projector (2008 - 2014)
+---
 
-Projector was a digital advertisement agency. There I was part of many fun and crazy projects, blending software, hardware and installations. We built [games for Samsung](https://www.youtube.com/watch?v=9Qq_yYDBjWo), [Charioke with Say Lou Lou](https://vimeo.com/262992557), strange [christmas presents](https://www.youtube.com/watch?v=9PGIitOX1i8) and a competition where you should [impress Megan Fox](https://www.youtube.com/watch?v=k-n0ibhbxTA). I worked in a team of four developers, graphics artists and copywriters.
+## References & people who know me well
 
-### Spider (2002 - 2008)
+**Malin Dandenell** — https://www.linkedin.com/in/malindandenell/ — Recruited me to Microsoft, managed me early there. Knows my strengths and weaknesses in the workplace better than almost anyone.
 
-Spider mainly worked with Microsoft Office education and custom solutions like templates. When I joined, it focused more on big software projects. I worked with large customers like Proctor & Gamble, H&M and Tetrapak.
+**Niklas Vackerdag** — https://www.linkedin.com/in/nickevackerdag/ — Project manager/product owner on several projects. Worked with me for 20+ years. Probably knows most about my skills as a developer and teammate.
 
-### 24/7 Interactive (1999 - 2002)
+**Jörgen Söderqvist** — https://www.linkedin.com/in/jorgen-soderqvist/ — Worked with me at Projector. We've continued on freelance projects. Knows my work at the code level.
 
-24/7 Interactive was founded and owned by me and five other people from prominent web agencies in Stockholm. The company was partly owned by the ad agency Grey.
+---
 
-### Cell Networks (1997 - 1999)
+**Last thing:** If you've read this far, you probably get it. This is me trying to tell you not just what I can do, but *how* I want to do it and *why* it matters to me. I'm not looking for the perfect role. I'm looking for the right fit. And when I find it, I give everything.
 
-At Cell I was the first employee, except for the founders. This was an amazing learning journey. There I got to work with people I still think are the best mentors I’ve had during my career.
+I want to work somewhere that makes me more myself. Where I can give something back. Where the people are solid and the work means something.
 
-## References
-
-### Malin Dandenell
-
-[https://www.linkedin.com/in/malindandenell/](https://www.linkedin.com/in/malindandenell/)
-
-Malin Dandenell recruited me to Microsoft and was my manager the first years and probably knows more than anyone what my strengths and weaknesses are in the workplace.
-
-### Niklas Vackerdag
-
-[https://www.linkedin.com/in/nickevackerdag/](https://www.linkedin.com/in/nickevackerdag/)
-
-Niklas Vackerdag has been the project manager or product owner in several projects I’ve worked with.
-
-### Jörgen Söderqvist
-
-[https://www.linkedin.com/in/jorgen-soderqvist/](https://www.linkedin.com/in/jorgen-soderqvist/)
-
-Jörgen Söderqvist worked with me at Projector as a developer. We’ve continued to work together on freelance projects from time to time. He probably knows most about my skills as a developer and team mate.
-
-## Testimonials
-
-### Martin Gustavsson (Projector)
-
-> _Johan is one of the brightest and most pragmatic tech guys I have ever had the fortune to work with. As the guy to go to when it came to challenging projects, Johan sure delivered every time. Would I ever to set up my own agency in the future, I would use him as the yardstick when measuring other developers._
-
-### Martha Humphreys (Client)
-
-> _Johan is extremely competent in his genre of programming. However, his skills are shared with great sensibility, a genuine kind spirit that perpetuates a total experience of trust, timeliness, and a remarkable work product. He is a quiet achiever and I have never worked with anyone that exemplified such integrity. You should count yourself lucky and learning much, if you ever had the rare pleasure to work with Johan Nordberg._
-
-### Malin Dandenell (Cell, Spider, Microsoft)
-
-> _I used to work with Johan for a long period of time. He is one of the most brilliant programmers I have ever met and will quickly find new ways to overcome obstacles. Johan is fast and efficient and will not let a challenge stop him from completing a task. In addition to his programming skills, clients generally love working with him since he will make their visions even better. I would heartily recommend Johan for any kind of advanced programming and there is always an open door for him at our company._
-
-### Niklas Vackerdag (iFokus, Carehood, Aktieguiden)
-
-> _I have been working with Johan for more than 20 years. He is one of the best app and web developers I know. Not only is he fast and reliable when it comes to development, but he also is an excellent communicator. The combination is hard to find. Johan has worked and been a driving force in both small and very large projects. I would recommend him for any job that he thinks he can do well. Hopefully, I will work with him again on many future projects._
+If that sounds like where you're building, let's talk.
